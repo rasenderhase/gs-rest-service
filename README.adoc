@@ -1,3 +1,9 @@
+== Enhanced sample usable for Eclipse WTP
+
+---
+https://stackoverflow.com/questions/34927236/how-to-run-spring-boot-app-in-eclipse-tomcat/50038545#answer-50038545
+---
+
 :spring_version: current
 :toc:
 :project_id: gs-rest-service
